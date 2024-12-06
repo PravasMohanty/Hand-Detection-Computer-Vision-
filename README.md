@@ -8,6 +8,7 @@ Customizable Parameters: Adjust detection and tracking confidence thresholds.
 Cross-platform Compatibility: Works seamlessly with any webcam or video feed.
 
 *Prerequisites and requirements*
+
 Python 3.7 or higher installed on your system.
 Libraries used : cv2(OpenCV) , mediapipe
 Access to a webcam for real-time tracking.
